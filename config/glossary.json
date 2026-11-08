@@ -1,0 +1,25 @@
+{
+  "replace": {
+    "Cloud Code": "Claude Code",
+    "Clot Code": "Claude Code",
+    "Clo Code": "Claude Code",
+    "Cloud Cốt": "Claude Code",
+    "Claude Cốt": "Claude Code",
+    "cáp cắt": "CapCut",
+    "cap cut": "CapCut",
+    "Cap Cut": "CapCut",
+    "Hyper Frame": "HyperFrames",
+    "Hyper Frames": "HyperFrames",
+    "hai pơ frame": "HyperFrames",
+    "ép ép em pếch": "FFmpeg",
+    "FF MPEG": "FFmpeg",
+    "Wisper": "Whisper",
+    "chát GPT": "ChatGPT",
+    "Chat GPT": "ChatGPT",
+    "Gemi nai": "Gemini",
+    "tô ken": "token",
+    "Py thon": "Python"
+  },
+  "fillers": ["ừm", "ừ", "ưm", "hừm", "à", "ờ", "ơ", "ạ ờ", "um", "uh", "uhm", "hmm", "ừa"],
+  "prompt_terms": ["Claude Code", "CapCut", "HyperFrames", "FFmpeg", "Whisper", "token", "AI", "skill", "edit video"]
+}

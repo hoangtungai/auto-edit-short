@@ -1,0 +1,807 @@
+{
+  "scenes": [
+    {
+      "t": 0.0,
+      "end": 4.3,
+      "layout": "normal",
+      "dur": 4.3,
+      "transition": "none"
+    },
+    {
+      "t": 4.3,
+      "end": 10.3,
+      "layout": "split",
+      "dur": 6.0,
+      "transition": "slide-down",
+      "mg": {
+        "template": "list",
+        "title": "Cách cũ: tốn token",
+        "items": [
+          {
+            "text": "Dùng skill AI để edit",
+            "logo": "claude",
+            "at": 5.5
+          },
+          {
+            "text": "AI điều khiển app bên thứ 3",
+            "at": 7.2
+          },
+          {
+            "text": "Ví dụ: CapCut",
+            "logo": "capcut",
+            "at": 8.9
+          }
+        ]
+      },
+      "mg_area": [
+        190,
+        689
+      ]
+    },
+    {
+      "t": 10.3,
+      "end": 15.3,
+      "layout": "normal",
+      "dur": 5.0,
+      "transition": "slide-up"
+    },
+    {
+      "t": 15.3,
+      "end": 21.8,
+      "layout": "fullscreen",
+      "dur": 6.5,
+      "transition": "zoom-blur",
+      "mg": {
+        "template": "flow",
+        "title": "Phân tích trước, AI sau",
+        "nodes": [
+          {
+            "label": "Video gốc",
+            "sub": "nội dung thô",
+            "at": 15.5
+          },
+          {
+            "label": "App miễn phí",
+            "sub": "FFmpeg · Whisper",
+            "logos": [
+              "ffmpeg",
+              "openai"
+            ],
+            "at": 16.8
+          },
+          {
+            "label": "Nội dung dạng chữ",
+            "sub": "transcript nhẹ",
+            "at": 18.4
+          },
+          {
+            "label": "AI xử lý",
+            "sub": "ít token hơn",
+            "logos": [
+              "claude"
+            ],
+            "at": 20.6
+          }
+        ]
+      },
+      "mg_area": [
+        260,
+        1400
+      ]
+    },
+    {
+      "t": 21.8,
+      "end": 27.3,
+      "layout": "split",
+      "dur": 5.5,
+      "transition": "wipe",
+      "mg": {
+        "template": "steps",
+        "title": "Thứ hai",
+        "items": [
+          {
+            "text": "Chốt phong cách edit",
+            "at": 23.4
+          },
+          {
+            "text": "Kiểm tra qua nhiều video",
+            "at": 24.9
+          },
+          {
+            "text": "Edit thành công",
+            "at": 26.5
+          }
+        ]
+      },
+      "mg_area": [
+        190,
+        687
+      ]
+    },
+    {
+      "t": 27.3,
+      "end": 32.4,
+      "layout": "fullscreen",
+      "dur": 5.1,
+      "transition": "zoom-blur",
+      "mg": {
+        "template": "strike",
+        "kicker": "Khi đã ổn định",
+        "title": "AI kiểm tra video đầu ra",
+        "stamp": "LOẠI BỎ",
+        "strike_at": 28.9,
+        "sub": "Tiết kiệm thêm token mỗi video",
+        "sub_at": 30.7
+      },
+      "mg_area": [
+        260,
+        1400
+      ]
+    },
+    {
+      "t": 32.4,
+      "end": 41.033,
+      "layout": "normal",
+      "dur": 8.633,
+      "transition": "wipe"
+    }
+  ],
+  "head_texts": [
+    {
+      "id": "ht0",
+      "t": 0.1,
+      "end": 4.1,
+      "top": 377,
+      "baseline": 574,
+      "head_top": 538,
+      "size": 102
+    },
+    {
+      "id": "ht1",
+      "t": 10.6,
+      "end": 13.0,
+      "top": 346,
+      "baseline": 592,
+      "head_top": 539,
+      "size": 150
+    },
+    {
+      "id": "ht2",
+      "t": 13.1,
+      "end": 15.1,
+      "top": 368,
+      "baseline": 573,
+      "head_top": 534,
+      "size": 110
+    },
+    {
+      "id": "ht3",
+      "t": 32.8,
+      "end": 35.199999999999996,
+      "top": 365,
+      "baseline": 544,
+      "head_top": 514,
+      "size": 84
+    },
+    {
+      "id": "ht4",
+      "t": 35.35,
+      "end": 37.75,
+      "top": 288,
+      "baseline": 572,
+      "head_top": 506,
+      "size": 188
+    },
+    {
+      "id": "ht5",
+      "t": 37.9,
+      "end": 40.9,
+      "top": 336,
+      "baseline": 541,
+      "head_top": 502,
+      "size": 110
+    }
+  ],
+  "logos": [
+    {
+      "id": "lg0",
+      "t": 14.0,
+      "x": 728,
+      "y": 597
+    }
+  ],
+  "captions": [
+    {
+      "id": "cg0",
+      "start": 0.12,
+      "end": 0.61,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 505,
+      "layout": "normal",
+      "text": "Tại sao một"
+    },
+    {
+      "id": "cg1",
+      "start": 0.61,
+      "end": 1.11,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 560,
+      "layout": "normal",
+      "text": "cái ứng dụng"
+    },
+    {
+      "id": "cg2",
+      "start": 1.11,
+      "end": 2.01,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 568,
+      "layout": "normal",
+      "text": "edit video lại"
+    },
+    {
+      "id": "cg3",
+      "start": 2.01,
+      "end": 2.55,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 486,
+      "layout": "normal",
+      "text": "có thể giúp"
+    },
+    {
+      "id": "cg4",
+      "start": 2.55,
+      "end": 3.19,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 565,
+      "layout": "normal",
+      "text": "tiết kiệm hơn"
+    },
+    {
+      "id": "cg5",
+      "start": 3.19,
+      "end": 4.61,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 588,
+      "layout": "normal",
+      "text": "90% token so"
+    },
+    {
+      "id": "cg6",
+      "start": 4.61,
+      "end": 5.21,
+      "top": 730,
+      "bottom": 833,
+      "width": 456,
+      "layout": "split",
+      "text": "với việc sử"
+    },
+    {
+      "id": "cg7",
+      "start": 5.21,
+      "end": 6.11,
+      "top": 734,
+      "bottom": 837,
+      "width": 527,
+      "layout": "split",
+      "text": "dụng skill AI"
+    },
+    {
+      "id": "cg8",
+      "start": 6.11,
+      "end": 7.03,
+      "top": 731,
+      "bottom": 834,
+      "width": 442,
+      "layout": "split",
+      "text": "hoặc là sử"
+    },
+    {
+      "id": "cg9",
+      "start": 7.03,
+      "end": 7.69,
+      "top": 749,
+      "bottom": 852,
+      "width": 463,
+      "layout": "split",
+      "text": "dụng AI để"
+    },
+    {
+      "id": "cg10",
+      "start": 7.69,
+      "end": 8.39,
+      "top": 720,
+      "bottom": 823,
+      "width": 634,
+      "layout": "split",
+      "text": "điều khiển các"
+    },
+    {
+      "id": "cg11",
+      "start": 8.39,
+      "end": 8.87,
+      "top": 728,
+      "bottom": 831,
+      "width": 560,
+      "layout": "split",
+      "text": "cái ứng dụng"
+    },
+    {
+      "id": "cg12",
+      "start": 8.87,
+      "end": 9.41,
+      "top": 756,
+      "bottom": 859,
+      "width": 403,
+      "layout": "split",
+      "text": "bên thứ 3"
+    },
+    {
+      "id": "cg13",
+      "start": 9.41,
+      "end": 10.37,
+      "top": 732,
+      "bottom": 835,
+      "width": 670,
+      "layout": "split",
+      "text": "như là CapCut?"
+    },
+    {
+      "id": "cg14",
+      "start": 10.37,
+      "end": 10.79,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 406,
+      "layout": "normal",
+      "text": "Bởi vì thứ"
+    },
+    {
+      "id": "cg15",
+      "start": 10.79,
+      "end": 11.49,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 518,
+      "layout": "normal",
+      "text": "nhất là thay"
+    },
+    {
+      "id": "cg16",
+      "start": 11.49,
+      "end": 12.27,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 480,
+      "layout": "normal",
+      "text": "vì chúng ta"
+    },
+    {
+      "id": "cg17",
+      "start": 12.27,
+      "end": 13.11,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 603,
+      "layout": "normal",
+      "text": "đưa thẳng cái"
+    },
+    {
+      "id": "cg18",
+      "start": 13.11,
+      "end": 13.73,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 554,
+      "layout": "normal",
+      "text": "nội dung của"
+    },
+    {
+      "id": "cg19",
+      "start": 13.73,
+      "end": 14.65,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 541,
+      "layout": "normal",
+      "text": "video cho AI"
+    },
+    {
+      "id": "cg20",
+      "start": 14.65,
+      "end": 15.67,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 548,
+      "layout": "normal",
+      "text": "phân tích thì"
+    },
+    {
+      "id": "cg21",
+      "start": 15.67,
+      "end": 16.23,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 502,
+      "layout": "fullscreen",
+      "text": "chúng ta sẽ"
+    },
+    {
+      "id": "cg22",
+      "start": 16.23,
+      "end": 16.95,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 627,
+      "layout": "fullscreen",
+      "text": "sử dụng những"
+    },
+    {
+      "id": "cg23",
+      "start": 16.95,
+      "end": 17.51,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 560,
+      "layout": "fullscreen",
+      "text": "cái ứng dụng"
+    },
+    {
+      "id": "cg24",
+      "start": 17.51,
+      "end": 18.13,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 497,
+      "layout": "fullscreen",
+      "text": "miễn phí để"
+    },
+    {
+      "id": "cg25",
+      "start": 18.13,
+      "end": 18.69,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 565,
+      "layout": "fullscreen",
+      "text": "phân tích nội"
+    },
+    {
+      "id": "cg26",
+      "start": 18.69,
+      "end": 19.43,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 532,
+      "layout": "fullscreen",
+      "text": "dung rồi sau"
+    },
+    {
+      "id": "cg27",
+      "start": 19.43,
+      "end": 19.97,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 485,
+      "layout": "fullscreen",
+      "text": "đấy thì mới"
+    },
+    {
+      "id": "cg28",
+      "start": 19.97,
+      "end": 20.59,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 561,
+      "layout": "fullscreen",
+      "text": "đưa nội dung"
+    },
+    {
+      "id": "cg29",
+      "start": 20.59,
+      "end": 21.29,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 409,
+      "layout": "fullscreen",
+      "text": "cho AI để"
+    },
+    {
+      "id": "cg30",
+      "start": 21.29,
+      "end": 21.77,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 202,
+      "layout": "fullscreen",
+      "text": "xử lý"
+    },
+    {
+      "id": "cg31",
+      "start": 21.77,
+      "end": 22.59,
+      "top": 728,
+      "bottom": 831,
+      "width": 435,
+      "layout": "split",
+      "text": "Và thứ hai"
+    },
+    {
+      "id": "cg32",
+      "start": 22.59,
+      "end": 23.09,
+      "top": 728,
+      "bottom": 831,
+      "width": 420,
+      "layout": "split",
+      "text": "là khi các"
+    },
+    {
+      "id": "cg33",
+      "start": 23.09,
+      "end": 23.55,
+      "top": 724,
+      "bottom": 827,
+      "width": 578,
+      "layout": "split",
+      "text": "bạn đã thống"
+    },
+    {
+      "id": "cg34",
+      "start": 23.55,
+      "end": 24.11,
+      "top": 722,
+      "bottom": 825,
+      "width": 736,
+      "layout": "split",
+      "text": "nhất được phong"
+    },
+    {
+      "id": "cg35",
+      "start": 24.11,
+      "end": 24.81,
+      "top": 729,
+      "bottom": 832,
+      "width": 540,
+      "layout": "split",
+      "text": "cách edit và"
+    },
+    {
+      "id": "cg36",
+      "start": 24.81,
+      "end": 25.57,
+      "top": 718,
+      "bottom": 821,
+      "width": 545,
+      "layout": "split",
+      "text": "kiểm tra qua"
+    },
+    {
+      "id": "cg37",
+      "start": 25.57,
+      "end": 26.41,
+      "top": 722,
+      "bottom": 825,
+      "width": 744,
+      "layout": "split",
+      "text": "nhiều video được"
+    },
+    {
+      "id": "cg38",
+      "start": 26.41,
+      "end": 27.37,
+      "top": 719,
+      "bottom": 822,
+      "width": 685,
+      "layout": "split",
+      "text": "edit thành công"
+    },
+    {
+      "id": "cg39",
+      "start": 27.37,
+      "end": 28.07,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 490,
+      "layout": "fullscreen",
+      "text": "thì các bạn"
+    },
+    {
+      "id": "cg40",
+      "start": 28.07,
+      "end": 28.63,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 572,
+      "layout": "fullscreen",
+      "text": "hoàn toàn có"
+    },
+    {
+      "id": "cg41",
+      "start": 28.63,
+      "end": 29.25,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 462,
+      "layout": "fullscreen",
+      "text": "thể loại bỏ"
+    },
+    {
+      "id": "cg42",
+      "start": 29.25,
+      "end": 29.95,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 492,
+      "layout": "fullscreen",
+      "text": "cái bước AI"
+    },
+    {
+      "id": "cg43",
+      "start": 29.95,
+      "end": 30.67,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 517,
+      "layout": "fullscreen",
+      "text": "kiểm tra cái"
+    },
+    {
+      "id": "cg44",
+      "start": 30.67,
+      "end": 31.45,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 590,
+      "layout": "fullscreen",
+      "text": "kết quả video"
+    },
+    {
+      "id": "cg45",
+      "start": 31.45,
+      "end": 32.49,
+      "top": 1508,
+      "bottom": 1612,
+      "width": 477,
+      "layout": "fullscreen",
+      "text": "edit đầu ra"
+    },
+    {
+      "id": "cg46",
+      "start": 32.49,
+      "end": 33.09,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 482,
+      "layout": "normal",
+      "text": "Và mình đã"
+    },
+    {
+      "id": "cg47",
+      "start": 33.09,
+      "end": 33.69,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 506,
+      "layout": "normal",
+      "text": "làm một cái"
+    },
+    {
+      "id": "cg48",
+      "start": 33.69,
+      "end": 34.43,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 722,
+      "layout": "normal",
+      "text": "video hướng dẫn"
+    },
+    {
+      "id": "cg49",
+      "start": 34.43,
+      "end": 35.09,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 518,
+      "layout": "normal",
+      "text": "chi tiết chia"
+    },
+    {
+      "id": "cg50",
+      "start": 35.09,
+      "end": 35.87,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 424,
+      "layout": "normal",
+      "text": "sẻ 4 bước"
+    },
+    {
+      "id": "cg51",
+      "start": 35.87,
+      "end": 36.49,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 486,
+      "layout": "normal",
+      "text": "để các bạn"
+    },
+    {
+      "id": "cg52",
+      "start": 36.49,
+      "end": 37.05,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 383,
+      "layout": "normal",
+      "text": "có thể tự"
+    },
+    {
+      "id": "cg53",
+      "start": 37.05,
+      "end": 37.87,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 629,
+      "layout": "normal",
+      "text": "mình xây dựng"
+    },
+    {
+      "id": "cg54",
+      "start": 37.87,
+      "end": 38.41,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 560,
+      "layout": "normal",
+      "text": "cái ứng dụng"
+    },
+    {
+      "id": "cg55",
+      "start": 38.41,
+      "end": 39.25,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 549,
+      "layout": "normal",
+      "text": "edit video tự"
+    },
+    {
+      "id": "cg56",
+      "start": 39.25,
+      "end": 39.91,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 589,
+      "layout": "normal",
+      "text": "động cá nhân"
+    },
+    {
+      "id": "cg57",
+      "start": 39.91,
+      "end": 40.59,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 528,
+      "layout": "normal",
+      "text": "hóa cho mỗi"
+    },
+    {
+      "id": "cg58",
+      "start": 40.59,
+      "end": 41.013,
+      "top": 1278,
+      "bottom": 1382,
+      "width": 246,
+      "layout": "normal",
+      "text": "người"
+    }
+  ],
+  "split_shift": 320,
+  "duration": 41.033
+}

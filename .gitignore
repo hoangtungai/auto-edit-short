@@ -1,0 +1,23 @@
+.venv/
+.npm-cache/
+node_modules/
+.pytest_cache/
+__pycache__/
+*.pyc
+.DS_Store
+models/
+
+# raw inputs stay local (GitHub limit 100 MB/file); a 1080p sample lives in samples/
+input/*
+!input/.gitkeep
+
+# outputs: keep only the sample result
+output/*
+!output/.gitkeep
+!output/short12_final.mp4
+
+# intermediates are regenerable; keep the sample's JSON decisions as a reference
+work/*
+!work/short12/
+work/short12/*
+!work/short12/*.json

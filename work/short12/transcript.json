@@ -1,0 +1,1796 @@
+{
+  "source": "samples/short12.mp4",
+  "duration": 41.1,
+  "language": "vi",
+  "engine": "mlx-community/whisper-large-v3-turbo",
+  "words": [
+    {
+      "i": 0,
+      "text": "Tại",
+      "start": 0.0,
+      "end": 0.18,
+      "raw": "Tại",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 1,
+      "text": "sao",
+      "start": 0.18,
+      "end": 0.46,
+      "raw": "sao",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 2,
+      "text": "một",
+      "start": 0.46,
+      "end": 0.66,
+      "raw": "một",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 3,
+      "text": "cái",
+      "start": 0.66,
+      "end": 0.78,
+      "raw": "cái",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 4,
+      "text": "ứng",
+      "start": 0.78,
+      "end": 0.96,
+      "raw": "ứng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 5,
+      "text": "dụng",
+      "start": 0.96,
+      "end": 1.16,
+      "raw": "dụng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 6,
+      "text": "edit",
+      "start": 1.16,
+      "end": 1.4,
+      "raw": "edit",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 7,
+      "text": "video",
+      "start": 1.4,
+      "end": 1.76,
+      "raw": "video",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 8,
+      "text": "lại",
+      "start": 1.76,
+      "end": 2.06,
+      "raw": "lại",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 9,
+      "text": "có",
+      "start": 2.06,
+      "end": 2.24,
+      "raw": "có",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 10,
+      "text": "thể",
+      "start": 2.24,
+      "end": 2.38,
+      "raw": "thể",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 11,
+      "text": "giúp",
+      "start": 2.38,
+      "end": 2.6,
+      "raw": "giúp",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 12,
+      "text": "tiết",
+      "start": 2.6,
+      "end": 2.82,
+      "raw": "tiết",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 13,
+      "text": "kiệm",
+      "start": 2.82,
+      "end": 3.04,
+      "raw": "kiệm",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 14,
+      "text": "hơn",
+      "start": 3.04,
+      "end": 3.24,
+      "raw": "hơn",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 15,
+      "text": "90%",
+      "start": 3.24,
+      "end": 3.86,
+      "raw": "90%",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 16,
+      "text": "token",
+      "start": 3.86,
+      "end": 4.28,
+      "raw": "token",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 17,
+      "text": "so",
+      "start": 4.28,
+      "end": 4.66,
+      "raw": "so",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 18,
+      "text": "với",
+      "start": 4.66,
+      "end": 4.82,
+      "raw": "với",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 19,
+      "text": "việc",
+      "start": 4.82,
+      "end": 5.04,
+      "raw": "việc",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 20,
+      "text": "sử",
+      "start": 5.04,
+      "end": 5.26,
+      "raw": "sử",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 21,
+      "text": "dụng",
+      "start": 5.26,
+      "end": 5.48,
+      "raw": "dụng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 22,
+      "text": "skill",
+      "start": 5.48,
+      "end": 5.84,
+      "raw": "skill",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 23,
+      "text": "AI",
+      "start": 5.84,
+      "end": 6.16,
+      "raw": "AI",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 24,
+      "text": "hoặc",
+      "start": 6.16,
+      "end": 6.62,
+      "raw": "hoặc",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 25,
+      "text": "là",
+      "start": 6.62,
+      "end": 6.82,
+      "raw": "là",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 26,
+      "text": "sử",
+      "start": 6.82,
+      "end": 7.08,
+      "raw": "sử",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 27,
+      "text": "dụng",
+      "start": 7.08,
+      "end": 7.24,
+      "raw": "dụng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 28,
+      "text": "AI",
+      "start": 7.24,
+      "end": 7.48,
+      "raw": "AI",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 29,
+      "text": "để",
+      "start": 7.48,
+      "end": 7.74,
+      "raw": "để",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 30,
+      "text": "điều",
+      "start": 7.74,
+      "end": 7.94,
+      "raw": "điều",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 31,
+      "text": "khiển",
+      "start": 7.94,
+      "end": 8.22,
+      "raw": "khiển",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 32,
+      "text": "các",
+      "start": 8.22,
+      "end": 8.44,
+      "raw": "các",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 33,
+      "text": "cái",
+      "start": 8.44,
+      "end": 8.6,
+      "raw": "cái",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 34,
+      "text": "ứng",
+      "start": 8.6,
+      "end": 8.72,
+      "raw": "ứng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 35,
+      "text": "dụng",
+      "start": 8.72,
+      "end": 8.92,
+      "raw": "dụng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 36,
+      "text": "bên",
+      "start": 8.92,
+      "end": 9.14,
+      "raw": "bên",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 37,
+      "text": "thứ",
+      "start": 9.14,
+      "end": 9.26,
+      "raw": "thứ",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 38,
+      "text": "3",
+      "start": 9.26,
+      "end": 9.46,
+      "raw": "3",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 39,
+      "text": "như",
+      "start": 9.46,
+      "end": 9.66,
+      "raw": "như",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 40,
+      "text": "là",
+      "start": 9.66,
+      "end": 9.78,
+      "raw": "là",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 41,
+      "text": "CapCut?",
+      "start": 9.78,
+      "end": 10.22,
+      "raw": "CapCut?",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 42,
+      "text": "Bởi",
+      "start": 10.42,
+      "end": 10.6,
+      "raw": "Bởi",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 43,
+      "text": "vì",
+      "start": 10.6,
+      "end": 10.7,
+      "raw": "vì",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 44,
+      "text": "thứ",
+      "start": 10.7,
+      "end": 10.84,
+      "raw": "thứ",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 45,
+      "text": "nhất",
+      "start": 10.84,
+      "end": 11.08,
+      "raw": "nhất",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 46,
+      "text": "là",
+      "start": 11.08,
+      "end": 11.28,
+      "raw": "là",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 47,
+      "text": "thay",
+      "start": 11.28,
+      "end": 11.54,
+      "raw": "thay",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 48,
+      "text": "vì",
+      "start": 11.54,
+      "end": 11.8,
+      "raw": "vì",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 49,
+      "text": "chúng",
+      "start": 11.8,
+      "end": 12.14,
+      "raw": "chúng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 50,
+      "text": "ta",
+      "start": 12.14,
+      "end": 12.32,
+      "raw": "ta",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 51,
+      "text": "đưa",
+      "start": 12.32,
+      "end": 12.58,
+      "raw": "đưa",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 52,
+      "text": "thẳng",
+      "start": 12.58,
+      "end": 12.94,
+      "raw": "thẳng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 53,
+      "text": "cái",
+      "start": 12.94,
+      "end": 13.16,
+      "raw": "cái",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 54,
+      "text": "nội",
+      "start": 13.16,
+      "end": 13.4,
+      "raw": "nội",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 55,
+      "text": "dung",
+      "start": 13.4,
+      "end": 13.6,
+      "raw": "dung",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 56,
+      "text": "của",
+      "start": 13.6,
+      "end": 13.78,
+      "raw": "của",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 57,
+      "text": "video",
+      "start": 13.78,
+      "end": 14.12,
+      "raw": "video",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 58,
+      "text": "cho",
+      "start": 14.12,
+      "end": 14.38,
+      "raw": "cho",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 59,
+      "text": "AI",
+      "start": 14.38,
+      "end": 14.7,
+      "raw": "AI",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 60,
+      "text": "phân",
+      "start": 14.7,
+      "end": 14.98,
+      "raw": "phân",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 61,
+      "text": "tích",
+      "start": 14.98,
+      "end": 15.18,
+      "raw": "tích",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 62,
+      "text": "thì",
+      "start": 15.18,
+      "end": 15.72,
+      "raw": "thì",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 63,
+      "text": "chúng",
+      "start": 15.72,
+      "end": 15.96,
+      "raw": "chúng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 64,
+      "text": "ta",
+      "start": 15.96,
+      "end": 16.1,
+      "raw": "ta",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 65,
+      "text": "sẽ",
+      "start": 16.1,
+      "end": 16.28,
+      "raw": "sẽ",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 66,
+      "text": "sử",
+      "start": 16.28,
+      "end": 16.52,
+      "raw": "sử",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 67,
+      "text": "dụng",
+      "start": 16.52,
+      "end": 16.8,
+      "raw": "dụng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 68,
+      "text": "những",
+      "start": 16.8,
+      "end": 17.0,
+      "raw": "những",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 69,
+      "text": "cái",
+      "start": 17.0,
+      "end": 17.2,
+      "raw": "cái",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 70,
+      "text": "ứng",
+      "start": 17.2,
+      "end": 17.36,
+      "raw": "ứng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 71,
+      "text": "dụng",
+      "start": 17.36,
+      "end": 17.56,
+      "raw": "dụng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 72,
+      "text": "miễn",
+      "start": 17.56,
+      "end": 17.76,
+      "raw": "miễn",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 73,
+      "text": "phí",
+      "start": 17.76,
+      "end": 18.0,
+      "raw": "phí",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 74,
+      "text": "để",
+      "start": 18.0,
+      "end": 18.18,
+      "raw": "để",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 75,
+      "text": "phân",
+      "start": 18.18,
+      "end": 18.4,
+      "raw": "phân",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 76,
+      "text": "tích",
+      "start": 18.4,
+      "end": 18.54,
+      "raw": "tích",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 77,
+      "text": "nội",
+      "start": 18.54,
+      "end": 18.74,
+      "raw": "nội",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 78,
+      "text": "dung",
+      "start": 18.74,
+      "end": 19.0,
+      "raw": "dung",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 79,
+      "text": "rồi",
+      "start": 19.0,
+      "end": 19.2,
+      "raw": "rồi",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 80,
+      "text": "sau",
+      "start": 19.2,
+      "end": 19.46,
+      "raw": "sau",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 81,
+      "text": "đấy",
+      "start": 19.46,
+      "end": 19.7,
+      "raw": "đấy",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 82,
+      "text": "thì",
+      "start": 19.7,
+      "end": 19.88,
+      "raw": "thì",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 83,
+      "text": "mới",
+      "start": 19.88,
+      "end": 20.02,
+      "raw": "mới",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 84,
+      "text": "đưa",
+      "start": 20.02,
+      "end": 20.22,
+      "raw": "đưa",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 85,
+      "text": "nội",
+      "start": 20.22,
+      "end": 20.42,
+      "raw": "nội",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 86,
+      "text": "dung",
+      "start": 20.42,
+      "end": 20.64,
+      "raw": "dung",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 87,
+      "text": "cho",
+      "start": 20.64,
+      "end": 20.82,
+      "raw": "cho",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 88,
+      "text": "AI",
+      "start": 20.82,
+      "end": 21.1,
+      "raw": "AI",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 89,
+      "text": "để",
+      "start": 21.1,
+      "end": 21.34,
+      "raw": "để",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 90,
+      "text": "xử",
+      "start": 21.34,
+      "end": 21.56,
+      "raw": "xử",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 91,
+      "text": "lý.",
+      "start": 21.56,
+      "end": 21.82,
+      "raw": "lý.",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 92,
+      "text": "Và",
+      "start": 21.82,
+      "end": 22.18,
+      "raw": "Và",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 93,
+      "text": "thứ",
+      "start": 22.18,
+      "end": 22.38,
+      "raw": "thứ",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 94,
+      "text": "hai",
+      "start": 22.38,
+      "end": 22.64,
+      "raw": "hai",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 95,
+      "text": "là",
+      "start": 22.64,
+      "end": 22.82,
+      "raw": "là",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 96,
+      "text": "khi",
+      "start": 22.82,
+      "end": 22.98,
+      "raw": "khi",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 97,
+      "text": "các",
+      "start": 22.98,
+      "end": 23.14,
+      "raw": "các",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 98,
+      "text": "bạn",
+      "start": 23.14,
+      "end": 23.26,
+      "raw": "bạn",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 99,
+      "text": "đã",
+      "start": 23.26,
+      "end": 23.4,
+      "raw": "đã",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 100,
+      "text": "thống",
+      "start": 23.4,
+      "end": 23.6,
+      "raw": "thống",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 101,
+      "text": "nhất",
+      "start": 23.6,
+      "end": 23.8,
+      "raw": "nhất",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 102,
+      "text": "được",
+      "start": 23.8,
+      "end": 23.94,
+      "raw": "được",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 103,
+      "text": "phong",
+      "start": 23.94,
+      "end": 24.16,
+      "raw": "phong",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 104,
+      "text": "cách",
+      "start": 24.16,
+      "end": 24.32,
+      "raw": "cách",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 105,
+      "text": "edit",
+      "start": 24.32,
+      "end": 24.62,
+      "raw": "edit",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 106,
+      "text": "và",
+      "start": 24.62,
+      "end": 24.86,
+      "raw": "và",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 107,
+      "text": "kiểm",
+      "start": 24.86,
+      "end": 25.14,
+      "raw": "kiểm",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 108,
+      "text": "tra",
+      "start": 25.14,
+      "end": 25.4,
+      "raw": "tra",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 109,
+      "text": "qua",
+      "start": 25.4,
+      "end": 25.62,
+      "raw": "qua",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 110,
+      "text": "nhiều",
+      "start": 25.62,
+      "end": 25.86,
+      "raw": "nhiều",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 111,
+      "text": "video",
+      "start": 25.86,
+      "end": 26.2,
+      "raw": "video",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 112,
+      "text": "được",
+      "start": 26.2,
+      "end": 26.46,
+      "raw": "được",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 113,
+      "text": "edit",
+      "start": 26.46,
+      "end": 26.76,
+      "raw": "edit",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 114,
+      "text": "thành",
+      "start": 26.76,
+      "end": 26.94,
+      "raw": "thành",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 115,
+      "text": "công,",
+      "start": 26.94,
+      "end": 27.24,
+      "raw": "công,",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 116,
+      "text": "thì",
+      "start": 27.4,
+      "end": 27.8,
+      "raw": "thì",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 117,
+      "text": "các",
+      "start": 27.8,
+      "end": 27.98,
+      "raw": "các",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 118,
+      "text": "bạn",
+      "start": 27.98,
+      "end": 28.12,
+      "raw": "bạn",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 119,
+      "text": "hoàn",
+      "start": 28.12,
+      "end": 28.32,
+      "raw": "hoàn",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 120,
+      "text": "toàn",
+      "start": 28.32,
+      "end": 28.54,
+      "raw": "toàn",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 121,
+      "text": "có",
+      "start": 28.54,
+      "end": 28.68,
+      "raw": "có",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 122,
+      "text": "thể",
+      "start": 28.68,
+      "end": 28.8,
+      "raw": "thể",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 123,
+      "text": "loại",
+      "start": 28.8,
+      "end": 29.04,
+      "raw": "loại",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 124,
+      "text": "bỏ",
+      "start": 29.04,
+      "end": 29.3,
+      "raw": "bỏ",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 125,
+      "text": "cái",
+      "start": 29.3,
+      "end": 29.46,
+      "raw": "cái",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 126,
+      "text": "bước",
+      "start": 29.46,
+      "end": 29.7,
+      "raw": "bước",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 127,
+      "text": "AI",
+      "start": 29.7,
+      "end": 30.0,
+      "raw": "AI",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 128,
+      "text": "kiểm",
+      "start": 30.0,
+      "end": 30.36,
+      "raw": "kiểm",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 129,
+      "text": "tra",
+      "start": 30.36,
+      "end": 30.56,
+      "raw": "tra",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 130,
+      "text": "cái",
+      "start": 30.56,
+      "end": 30.72,
+      "raw": "cái",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 131,
+      "text": "kết",
+      "start": 30.72,
+      "end": 30.9,
+      "raw": "kết",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 132,
+      "text": "quả",
+      "start": 30.9,
+      "end": 31.18,
+      "raw": "quả",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 133,
+      "text": "video",
+      "start": 31.18,
+      "end": 31.5,
+      "raw": "video",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 134,
+      "text": "edit",
+      "start": 31.5,
+      "end": 31.88,
+      "raw": "edit",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 135,
+      "text": "đầu",
+      "start": 31.88,
+      "end": 32.06,
+      "raw": "đầu",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 136,
+      "text": "ra.",
+      "start": 32.06,
+      "end": 32.36,
+      "raw": "ra.",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 137,
+      "text": "Và",
+      "start": 32.54,
+      "end": 32.72,
+      "raw": "Và",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 138,
+      "text": "mình",
+      "start": 32.72,
+      "end": 32.94,
+      "raw": "mình",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 139,
+      "text": "đã",
+      "start": 32.94,
+      "end": 33.14,
+      "raw": "đã",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 140,
+      "text": "làm",
+      "start": 33.14,
+      "end": 33.46,
+      "raw": "làm",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 141,
+      "text": "một",
+      "start": 33.46,
+      "end": 33.62,
+      "raw": "một",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 142,
+      "text": "cái",
+      "start": 33.62,
+      "end": 33.74,
+      "raw": "cái",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 143,
+      "text": "video",
+      "start": 33.74,
+      "end": 34.04,
+      "raw": "video",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 144,
+      "text": "hướng",
+      "start": 34.04,
+      "end": 34.32,
+      "raw": "hướng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 145,
+      "text": "dẫn",
+      "start": 34.32,
+      "end": 34.48,
+      "raw": "dẫn",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 146,
+      "text": "chi",
+      "start": 34.48,
+      "end": 34.68,
+      "raw": "chi",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 147,
+      "text": "tiết",
+      "start": 34.68,
+      "end": 34.92,
+      "raw": "tiết",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 148,
+      "text": "chia",
+      "start": 34.92,
+      "end": 35.14,
+      "raw": "chia",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 149,
+      "text": "sẻ",
+      "start": 35.14,
+      "end": 35.44,
+      "raw": "sẻ",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 150,
+      "text": "4",
+      "start": 35.44,
+      "end": 35.66,
+      "raw": "4",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 151,
+      "text": "bước",
+      "start": 35.66,
+      "end": 35.92,
+      "raw": "bước",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 152,
+      "text": "để",
+      "start": 35.92,
+      "end": 36.16,
+      "raw": "để",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 153,
+      "text": "các",
+      "start": 36.16,
+      "end": 36.36,
+      "raw": "các",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 154,
+      "text": "bạn",
+      "start": 36.36,
+      "end": 36.54,
+      "raw": "bạn",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 155,
+      "text": "có",
+      "start": 36.54,
+      "end": 36.72,
+      "raw": "có",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 156,
+      "text": "thể",
+      "start": 36.72,
+      "end": 36.86,
+      "raw": "thể",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 157,
+      "text": "tự",
+      "start": 36.86,
+      "end": 37.1,
+      "raw": "tự",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 158,
+      "text": "mình",
+      "start": 37.1,
+      "end": 37.36,
+      "raw": "mình",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 159,
+      "text": "xây",
+      "start": 37.36,
+      "end": 37.66,
+      "raw": "xây",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 160,
+      "text": "dựng",
+      "start": 37.66,
+      "end": 37.92,
+      "raw": "dựng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 161,
+      "text": "cái",
+      "start": 37.92,
+      "end": 38.04,
+      "raw": "cái",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 162,
+      "text": "ứng",
+      "start": 38.04,
+      "end": 38.22,
+      "raw": "ứng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 163,
+      "text": "dụng",
+      "start": 38.22,
+      "end": 38.46,
+      "raw": "dụng",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 164,
+      "text": "edit",
+      "start": 38.46,
+      "end": 38.74,
+      "raw": "edit",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 165,
+      "text": "video",
+      "start": 38.74,
+      "end": 39.04,
+      "raw": "video",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 166,
+      "text": "tự",
+      "start": 39.04,
+      "end": 39.3,
+      "raw": "tự",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 167,
+      "text": "động",
+      "start": 39.3,
+      "end": 39.52,
+      "raw": "động",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 168,
+      "text": "cá",
+      "start": 39.52,
+      "end": 39.74,
+      "raw": "cá",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 169,
+      "text": "nhân",
+      "start": 39.74,
+      "end": 39.96,
+      "raw": "nhân",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 170,
+      "text": "hóa",
+      "start": 39.96,
+      "end": 40.28,
+      "raw": "hóa",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 171,
+      "text": "cho",
+      "start": 40.28,
+      "end": 40.44,
+      "raw": "cho",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 172,
+      "text": "mỗi",
+      "start": 40.44,
+      "end": 40.64,
+      "raw": "mỗi",
+      "fixed": false,
+      "filler": false
+    },
+    {
+      "i": 173,
+      "text": "người.",
+      "start": 40.64,
+      "end": 40.86,
+      "raw": "người.",
+      "fixed": false,
+      "filler": false
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 10.22,
+      "text": "Tại sao một cái ứng dụng edit video lại có thể giúp tiết kiệm hơn 90% token so với việc sử dụng skill AI hoặc là sử dụng AI để điều khiển các cái ứng dụng bên thứ 3 như là CapCut?",
+      "word_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "id": 1,
+      "start": 10.42,
+      "end": 21.82,
+      "text": "Bởi vì thứ nhất là thay vì chúng ta đưa thẳng cái nội dung của video cho AI phân tích thì chúng ta sẽ sử dụng những cái ứng dụng miễn phí để phân tích nội dung rồi sau đấy thì mới đưa nội dung cho AI để xử lý.",
+      "word_ids": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ]
+    },
+    {
+      "id": 2,
+      "start": 21.82,
+      "end": 32.36,
+      "text": "Và thứ hai là khi các bạn đã thống nhất được phong cách edit và kiểm tra qua nhiều video được edit thành công, thì các bạn hoàn toàn có thể loại bỏ cái bước AI kiểm tra cái kết quả video edit đầu ra.",
+      "word_ids": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136
+      ]
+    },
+    {
+      "id": 3,
+      "start": 32.54,
+      "end": 40.86,
+      "text": "Và mình đã làm một cái video hướng dẫn chi tiết chia sẻ 4 bước để các bạn có thể tự mình xây dựng cái ứng dụng edit video tự động cá nhân hóa cho mỗi người.",
+      "word_ids": [
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173
+      ]
+    }
+  ],
+  "silences": [
+    [
+      10.19,
+      10.457
+    ],
+    [
+      15.274,
+      15.633
+    ],
+    [
+      27.338,
+      27.7
+    ]
+  ]
+}

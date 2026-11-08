@@ -1,0 +1,289 @@
+{
+ "source": "work/short12/cut.mp4",
+ "duration": 41.033,
+ "background": "media/backgrounds/studio_bg_9x16.jpg",
+ "events": [
+  {
+   "t": 0.0,
+   "type": "scene",
+   "params": {
+    "layout": "normal",
+    "dur": 4.3,
+    "transition": "none"
+   }
+  },
+  {
+   "t": 0.1,
+   "type": "head_text",
+   "params": {
+    "text": "TIẾT KIỆM 90%",
+    "sub": "APP EDIT VIDEO GIÚP",
+    "accent": [
+     "90%"
+    ],
+    "dur": 4.0
+   }
+  },
+  {
+   "t": 3.0,
+   "type": "zoom",
+   "params": {
+    "to": 1.14,
+    "dur": 0.35,
+    "hold": 0.9,
+    "ease": "power3.out"
+   }
+  },
+  {
+   "t": 4.3,
+   "type": "scene",
+   "params": {
+    "layout": "split",
+    "dur": 6.0,
+    "transition": "slide-down",
+    "mg": {
+     "template": "list",
+     "title": "Cách cũ: tốn token",
+     "items": [
+      {
+       "text": "Dùng skill AI để edit",
+       "logo": "claude",
+       "at": 5.5
+      },
+      {
+       "text": "AI điều khiển app bên thứ 3",
+       "at": 7.2
+      },
+      {
+       "text": "Ví dụ: CapCut",
+       "logo": "capcut",
+       "at": 8.9
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": 10.3,
+   "type": "scene",
+   "params": {
+    "layout": "normal",
+    "dur": 5.0,
+    "transition": "slide-up"
+   }
+  },
+  {
+   "t": 10.6,
+   "type": "head_text",
+   "params": {
+    "text": "THỨ NHẤT",
+    "sub": "LÝ DO",
+    "dur": 2.4
+   }
+  },
+  {
+   "t": 12.3,
+   "type": "zoom",
+   "params": {
+    "to": 1.12,
+    "dur": 0.5,
+    "ease": "power2.out"
+   }
+  },
+  {
+   "t": 13.1,
+   "type": "head_text",
+   "params": {
+    "text": "VIDEO CHO AI",
+    "sub": "KHÔNG ĐƯA THẲNG",
+    "accent": [
+     "AI"
+    ],
+    "dur": 2.0
+   }
+  },
+  {
+   "t": 14.0,
+   "type": "logo",
+   "params": {
+    "name": "claude",
+    "file": "media/logos/claude.svg",
+    "dur": 1.2,
+    "pos": "beside-head"
+   }
+  },
+  {
+   "t": 14.4,
+   "type": "zoom",
+   "params": {
+    "to": 1.0,
+    "dur": 0.5,
+    "ease": "power2.inOut"
+   }
+  },
+  {
+   "t": 15.3,
+   "type": "scene",
+   "params": {
+    "layout": "fullscreen",
+    "dur": 6.5,
+    "transition": "zoom-blur",
+    "mg": {
+     "template": "flow",
+     "title": "Phân tích trước, AI sau",
+     "nodes": [
+      {
+       "label": "Video gốc",
+       "sub": "nội dung thô",
+       "at": 15.5
+      },
+      {
+       "label": "App miễn phí",
+       "sub": "FFmpeg · Whisper",
+       "logos": [
+        "ffmpeg",
+        "openai"
+       ],
+       "at": 16.8
+      },
+      {
+       "label": "Nội dung dạng chữ",
+       "sub": "transcript nhẹ",
+       "at": 18.4
+      },
+      {
+       "label": "AI xử lý",
+       "sub": "ít token hơn",
+       "logos": [
+        "claude"
+       ],
+       "at": 20.6
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": 21.8,
+   "type": "scene",
+   "params": {
+    "layout": "split",
+    "dur": 5.5,
+    "transition": "wipe",
+    "mg": {
+     "template": "steps",
+     "title": "Thứ hai",
+     "items": [
+      {
+       "text": "Chốt phong cách edit",
+       "at": 23.4
+      },
+      {
+       "text": "Kiểm tra qua nhiều video",
+       "at": 24.9
+      },
+      {
+       "text": "Edit thành công",
+       "at": 26.5
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": 27.3,
+   "type": "scene",
+   "params": {
+    "layout": "fullscreen",
+    "dur": 5.1,
+    "transition": "zoom-blur",
+    "mg": {
+     "template": "strike",
+     "kicker": "Khi đã ổn định",
+     "title": "AI kiểm tra video đầu ra",
+     "stamp": "LOẠI BỎ",
+     "strike_at": 28.9,
+     "sub": "Tiết kiệm thêm token mỗi video",
+     "sub_at": 30.7
+    }
+   }
+  },
+  {
+   "t": 32.4,
+   "type": "scene",
+   "params": {
+    "layout": "normal",
+    "dur": 8.633,
+    "transition": "wipe"
+   }
+  },
+  {
+   "t": 32.8,
+   "type": "head_text",
+   "params": {
+    "text": "VIDEO HƯỚNG DẪN",
+    "sub": "MÌNH ĐÃ LÀM",
+    "dur": 2.4,
+    "accent": []
+   }
+  },
+  {
+   "t": 33.6,
+   "type": "zoom",
+   "params": {
+    "to": 1.08,
+    "dur": 0.8,
+    "ease": "power2.out"
+   }
+  },
+  {
+   "t": 35.35,
+   "type": "head_text",
+   "params": {
+    "text": "4 BƯỚC",
+    "sub": "CHIA SẺ",
+    "accent": [
+     "4"
+    ],
+    "dur": 2.4
+   }
+  },
+  {
+   "t": 35.4,
+   "type": "zoom",
+   "params": {
+    "to": 1.18,
+    "dur": 0.3,
+    "ease": "power3.out"
+   }
+  },
+  {
+   "t": 37.9,
+   "type": "head_text",
+   "params": {
+    "text": "TỰ ĐỘNG HOÁ",
+    "sub": "APP EDIT VIDEO",
+    "dur": 3.0,
+    "accent": []
+   }
+  },
+  {
+   "t": 37.9,
+   "type": "zoom",
+   "params": {
+    "to": 1.0,
+    "dur": 0.6,
+    "ease": "power2.inOut"
+   }
+  },
+  {
+   "t": 39.6,
+   "type": "zoom",
+   "params": {
+    "to": 1.1,
+    "dur": 1.2,
+    "ease": "sine.inOut"
+   }
+  }
+ ]
+}

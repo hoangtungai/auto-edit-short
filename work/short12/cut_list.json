@@ -1,0 +1,19 @@
+{
+  "source": "samples/short12.mp4",
+  "approved": true,
+  "pad": 0.15,
+  "afade_ms": 30,
+  "cuts": [],
+  "keep": [
+    {
+      "start": 0.0,
+      "end": 41.0333
+    }
+  ],
+  "stats": {
+    "original": 41.1,
+    "after": 41.03,
+    "removed": 0.07,
+    "n_cuts": 0
+  }
+}

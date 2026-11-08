@@ -1,0 +1,36 @@
+{
+  "font_family": "Be Vietnam Pro",
+  "fonts": {
+    "900": "media/fonts/BeVietnamPro-Black.ttf",
+    "800": "media/fonts/BeVietnamPro-ExtraBold.ttf",
+    "700": "media/fonts/BeVietnamPro-Bold.ttf",
+    "600": "media/fonts/BeVietnamPro-SemiBold.ttf"
+  },
+  "colors": {
+    "text": "#FFFFFF",
+    "accent": "#FFD60A",
+    "accent2": "#4F8CFF",
+    "danger": "#FF4D5E",
+    "bg_dark": "#0A0F24",
+    "bg_dark2": "#18214A"
+  },
+  "split_shift": 320,
+  "caption": {
+    "words_per_group": 3,
+    "base_size": 78,
+    "min_size": 52,
+    "max_width": 920,
+    "y_normal": 1330,
+    "y_split_max": 960,
+    "y_fullscreen": 1560,
+    "gap_above_head": 18
+  },
+  "head_text": {
+    "max_width": 880,
+    "base_size": 190,
+    "min_size": 72,
+    "cover_ratio": 0.35
+  },
+  "background_kenburns": [1.0, 1.06],
+  "transition_dur": 0.45
+}
